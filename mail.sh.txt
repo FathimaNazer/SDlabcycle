@@ -1,0 +1,4 @@
+mail -s “hello world” fnzr97@gmail.com 
+cc:anandu@reelzone.in
+welcome to kerala 
+Cntrl + D 

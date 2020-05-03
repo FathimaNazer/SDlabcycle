@@ -1,0 +1,5 @@
+>at now + 1 minute 
+>cat|etc|protocols|grep –w ‘udp\|idrp\|skip\|ipip >pro.txt
+ > grep –E0 ‘[0-9]{1,4}’ pro.txt>fav.txt
+>gedit pro.txt
+ >Cntrl + D 

@@ -1,0 +1,8 @@
+>at now + 1 minute 
+>touch mca4/hello.txt 
+Echo “welcome” > mca4/hellotxt 
+>cntrl + D 
+>batch 
+>touch mca4/world.txt 
+>echo “welcome” > mca4/world.txt 
+>cntrl + D 
